@@ -1,12 +1,19 @@
-# Data Folder
-
 This folder contains information about the dataset used for the project.
 
-## Dataset
-PlantVillage dataset
+## Dataset Name
+PlantVillage Dataset
 
 ## Source
-Public dataset from Kaggle
+Kaggle public dataset
+
+## Dataset Link
+https://www.kaggle.com/datasets/emmarex/plantdisease
+
+## Labels Included
+- Healthy
+- Leaf Spot
+- Rust
+- Powdery Mildew
 
 ## Notes
-Images will be used for plant disease classification. The dataset may be resized, cleaned, and split into training, validation, and test sets.
+The dataset will be resized and split into training, validation, and test sets before model training.
