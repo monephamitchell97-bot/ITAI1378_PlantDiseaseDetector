@@ -1,3 +1,9 @@
-# Notebooks
+# Notebooks Folder
 
-This folder will contain project notebooks, including early exploration and model experiments.
+This folder contains notebooks used for early experiments and model development.
+
+## Planned Files
+- 01_exploration.ipynb
+
+## Notes
+The notebook will include dataset loading, preprocessing, training, and evaluation.
