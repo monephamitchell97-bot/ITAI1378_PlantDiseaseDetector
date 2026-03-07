@@ -22,7 +22,7 @@ This project will build a computer vision model that classifies plant diseases f
 - **Preparation:** Resize, normalize, train/test split
 
 ## Metrics
-- **Primary Metric:** Accuracy ≥ 85%
+- **Primary Metric:** Accuracy ≥ 92%
 - **Secondary Metric:** Inference time < 1 second per image
 
 ## Week-by-Week Plan
