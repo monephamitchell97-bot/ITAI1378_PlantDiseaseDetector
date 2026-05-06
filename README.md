@@ -46,8 +46,8 @@ ITAI1378_PlantDiseaseDetector/
 └── .gitignore
 
 ## Demo Video
-Paste your demo video link here:  
-[ADD LINK HERE]
+ video link here:  
+https://drive.google.com/file/d/1GsPRVJGvL28MSsUilUC7Dls1LSVqaFRb/view?usp=sharing
 
 ## Week-by-Week Plan (Completed)
 - **Week 10:** Repository and dataset setup completed  
